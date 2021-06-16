@@ -6,7 +6,7 @@
   "scripts": {
     "get-challenge": "`which bash` ./code-challenges/bin/get-challenge.sh",
     "shift-dir": "`which bash` ./code-challenges/bin/shift-dir.sh",
-    "cleanup": "`which bash` ./code-challenges/bin/clean-up.sh",
+    "clean-up": "`which bash` ./code-challenges/bin/clean-up.sh",
     "test": "jest --verbose --coverage",
     "lint": "eslint '**/*.js'"
   },
